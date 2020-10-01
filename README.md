@@ -1,1 +1,1 @@
-# Data_Science
+Some Data Science Course Projects (Python)
